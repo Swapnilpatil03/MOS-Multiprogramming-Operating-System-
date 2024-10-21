@@ -56,7 +56,7 @@ To run the MOS project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Swapnilpatil03/Assignment_intern.git
+    git clone https://github.com/Swapnilpatil03//MOS-Multiprogramming-Operating-System-
     ```
 
 2. **Navigate to the Project Directory**:

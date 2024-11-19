@@ -1,0 +1,201 @@
+
+Swapnil Patil                           
+Job ID: 0001
+  Time limit exceeded and invalid operand 
+IC is 3
+IR has H   
+TTC is 3
+TLC is 1
+
+*                                       
+*   *                                   
+*   *   *                               
+*   *                                   
+Job ID: 0202
+  Line limit exceeded error 
+IC is 15
+IR has PD60
+TTC is 15
+TLC is 5
+
+
+CAT CAN EAT RAT                         
+RAT                                     
+Job ID: 0302
+
+  Invalid operand error 
+IC is 10
+IR has H   
+TTC is 10
+TLC is 2
+
+
+Job ID: 0102
+  Invalid page fault error 
+IC is 2
+IR has LR36
+TTC is 2
+TLC is 0
+
+
+ABCD                                    
+ABCD                                    
+MATCH                                   
+Job ID: 0401	
+  Time limit exceeded error 
+IC is 11
+IR has PD50
+TTC is 10
+TLC is 3
+
+
+Job ID: 1503
+  Invalid operand error 
+IC is 4
+IR has SR7A
+TTC is 4
+TLC is 0
+
+
+Job ID: 14032
+  Invalid opcode error 
+IC is 9
+IR has PA30
+TTC is 9
+TLC is 0
+
+
+Job ID: 14032
+  Data out of range 
+IC is 1
+IR has GD30
+TTC is 1
+TLC is 0
+
+
+SHE SELLS   SEA SHELLS ON               
+Job ID: 0402
+  Time limit exceeded and invalid operand 
+IC is 5
+IR has PD3F
+TTC is 5
+TLC is 1
+
+
+SHE SELLS   SEA SHELLS ON               
+Job ID: 0403
+  Time limit exceeded and invalid opcode 
+IC is 5
+IR has PS40
+TTC is 5
+TLC is 1
+
+
+SHE SELLS   SEA SHELLS ON               
+Job ID: 0405
+  Time limit exceeded error 
+IC is 4
+IR has SR32
+TTC is 4
+TLC is 1
+
+*                                       
+*   *                                   
+*   *   *                               
+*   *                                   
+Job ID: 0202
+  Line limit exceeded error 
+IC is 15
+IR has PD60
+TTC is 15
+TLC is 5
+
+
+CAT CAN EAT RAT                         
+RAT                                     
+Job ID: 0302
+
+  Invalid operand error 
+IC is 10
+IR has H   
+TTC is 10
+TLC is 2
+
+
+Job ID: 0102
+  Invalid page fault error 
+IC is 2
+IR has LR36
+TTC is 2
+TLC is 0
+
+
+ABCD                                    
+ABCD                                    
+MATCH                                   
+Job ID: 0401	
+  Time limit exceeded error 
+IC is 11
+IR has PD50
+TTC is 10
+TLC is 3
+
+
+Job ID: 1503
+  Invalid operand error 
+IC is 4
+IR has SR7A
+TTC is 4
+TLC is 0
+
+
+Job ID: 14032
+  Invalid opcode error 
+IC is 9
+IR has PA30
+TTC is 9
+TLC is 0
+
+
+Job ID: 14032
+  Data out of range 
+IC is 1
+IR has GD30
+TTC is 1
+TLC is 0
+
+
+SHE SELLS   SEA SHELLS ON               
+Job ID: 0402
+  Time limit exceeded and invalid operand 
+IC is 5
+IR has PD3F
+TTC is 5
+TLC is 1
+
+
+SHE SELLS   SEA SHELLS ON               
+Job ID: 0403
+  Time limit exceeded and invalid opcode 
+IC is 5
+IR has PS40
+TTC is 5
+TLC is 1
+
+
+SHE SELLS   SEA SHELLS ON               
+Job ID: 0405
+  Time limit exceeded error 
+IC is 4
+IR has SR32
+TTC is 4
+TLC is 1
+
+Swapnil Patil                           
+Job ID: 0001
+  Time limit exceeded and invalid operand 
+IC is 3
+IR has H   
+TTC is 3
+TLC is 1
+

@@ -1,0 +1,5 @@
+$AMJ000100020001
+GD20PD20H
+$DTA
+My name is name
+$END0001
